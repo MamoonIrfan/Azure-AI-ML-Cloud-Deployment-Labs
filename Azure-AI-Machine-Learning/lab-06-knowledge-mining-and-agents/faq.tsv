@@ -1,0 +1,4 @@
+Question	Answer	Source	Metadata	SuggestedQuestions	IsContextOnly	Prompts	QnaId
+What is the refund deadline?	14 calendar days of purchase if course has not started	refund-policy.txt		[]	False	[]	1
+What are the support hours?	Monday-Friday 09:00-17:00 Pakistan Standard Time	support-hours.txt		[]	False	[]	2
+When will I receive an invoice?	Within two business days after confirmed payment	invoice-policy.txt		[]	False	[]	3

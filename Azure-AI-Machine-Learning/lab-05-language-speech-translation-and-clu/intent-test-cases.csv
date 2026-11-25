@@ -1,0 +1,7 @@
+utterance,expected_intent,expected_order_number,actual_intent,actual_entity,score_or_review,notes
+Could you locate delivery 7193?,TrackOrder,7193,,,,
+My new laptop has a smashed display,ReportDamage,,,,,
+Please forward the bill for order 8264,RequestInvoice,8264,,,,
+What is the capital of France?,None,,,,,
+The package status for 9352 please,TrackOrder,9352,,,,
+A replacement arrived with a damaged power cable,ReportDamage,,,,,

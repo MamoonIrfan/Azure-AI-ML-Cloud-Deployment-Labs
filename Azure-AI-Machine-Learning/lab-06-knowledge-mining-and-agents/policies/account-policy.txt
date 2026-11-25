@@ -1,0 +1,3 @@
+Account reset policy
+
+To reset an account, select Forgot password on the sign-in page, use your registered email, and follow the reset link. Never send your password to the help desk. Synthetic classroom policy.

@@ -1,0 +1,1 @@
+This synthetic text file is not a PDF. The app should reject it before OCR.

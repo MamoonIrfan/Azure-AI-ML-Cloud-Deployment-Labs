@@ -1,0 +1,3 @@
+Document upload policy
+
+The workshop accepts unencrypted PDF documents of at most two pages and smaller than 2 MiB. Scanned PDFs require OCR. Do not upload personal documents in the classroom. Synthetic classroom policy.

@@ -1,0 +1,12 @@
+scenario,what the output must be,your service choice,why,one limitation or cost question
+"Read the text on a scanned invoice PDF",,,,
+"Pull the invoice number and total out of an invoice as named fields",,,,
+"Decide whether a student's feedback message is positive or negative",,,,
+"Turn a recorded phone call into text",,,,
+"Translate a course announcement into French and Spanish",,,,
+"Work out what a student wants (track an order, report damage, request an invoice) from their message",,,,
+"Answer common questions from a fixed list of approved FAQ answers",,,,
+"Answer questions using the company's policy documents, with the source shown",,,,
+"Block abusive messages before they reach a chatbot",,,,
+"Predict next month's course enrolments from three years of data",,,,
+"Find and draw a box around every laptop in a warehouse photo",,,,

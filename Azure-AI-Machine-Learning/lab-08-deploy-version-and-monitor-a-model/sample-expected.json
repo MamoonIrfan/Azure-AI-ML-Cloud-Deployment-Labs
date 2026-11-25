@@ -1,0 +1,13 @@
+{
+  "predictions": [
+    0,
+    1,
+    2
+  ],
+  "classes": {
+    "0": "setosa",
+    "1": "versicolor",
+    "2": "virginica"
+  },
+  "source": "Lab 7 data/held-out.csv"
+}
